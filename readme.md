@@ -28,3 +28,11 @@ At the end of each week a quiz will be given by extracting personalised question
 
 #### Statistics
 There will be a statics option where the student is allowed to self access their performance for the week. 
+
+### Screenshots
+
+![](https://image.slidesharecdn.com/whiteboard-191006033705/95/whiteboard-by-alphabet-9-638.jpg?cb=1570333154)
+
+![](https://image.slidesharecdn.com/whiteboard-191006033705/95/whiteboard-by-alphabet-10-638.jpg?cb=1570333154)
+
+![](https://image.slidesharecdn.com/whiteboard-191006033705/95/whiteboard-by-alphabet-11-638.jpg?cb=1570333154)
